@@ -32,4 +32,4 @@
 - 👨‍💻разработкой сайтов на html и python
 - 🖌️созданию визуальных новелл
 - ⚡В свободное время играю в cs2
-- 📫 Как со мной связаться:[![Linkedin Badge](https://img.shields.io/badge/-loony221-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Loony221)
+- 📫 Как со мной связаться:[![Linkedin Badge](https://img.shields.io/badge/-loony221-black?style=flat&logo=telegram&logoColor=white)](https://t.me/Loony221)
