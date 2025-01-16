@@ -35,7 +35,6 @@
 - 📫 Как со мной связаться:[![Linkedin Badge](https://img.shields.io/badge/-loony221-black?style=flat&logo=telegram&logoColor=white)](https://t.me/Loony221)
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
