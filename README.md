@@ -27,4 +27,9 @@
 </div>
 :man_technologist: About Me :
 
-I am  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я студент второго курса веб разработки
+🔭я учусь созданию баз данных и работе с ними
+👨‍💻разработкой сайтов на html и python
+🖌️созданию визуальных новелл
+⚡В свободное время играю в cs2
+📫 Как со мной связаться:[![Linkedin Badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge)](https://t.me/Loony221)
